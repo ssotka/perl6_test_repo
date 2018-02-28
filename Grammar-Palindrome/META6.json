@@ -1,0 +1,17 @@
+{
+  "authors" : [
+    "Scott Sotka"
+  ],
+  "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "Grammar to identify palindrome strings.",
+  "name" : "Grammar::Palindrome",
+  "perl" : "6.c",
+  "provides" : {
+    "Grammar::Palindrome" : "lib/Grammar/Palindrome.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "git://github.com/ssotka/perl6_test_repo.git",
+  "test-depends" : [ ],
+  "version" : "*"
+}
